@@ -1,0 +1,38 @@
+body{
+background-color:#B0DAFF;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: crimson;
+    font-weight: 800;
+    text-shadow: 2px 2px 5px rgb(92, 92, 170);
+}
+p{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 500;
+    text-shadow: 2px 2px 5px rgb(92, 92, 170);
+}
+#user-input{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    padding:10px;
+    padding-top: 5px;padding-bottom: 5px;
+}
+div{
+    background-color: #FEFF86;
+    margin-left: 420px;
+    width: 500px;
+    height: 300px;
+    justify-content: center;
+}
